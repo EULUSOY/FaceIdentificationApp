@@ -1,0 +1,10 @@
+c:\users\burak\documents\visual studio 2017\Projects\FaceIdentify\FaceIdentify\bin\Debug\FaceIdentify.exe
+c:\users\burak\documents\visual studio 2017\Projects\FaceIdentify\FaceIdentify\bin\Debug\FaceIdentify.pdb
+c:\users\burak\documents\visual studio 2017\Projects\FaceIdentify\FaceIdentify\obj\Debug\FaceIdentify.csprojResolveAssemblyReference.cache
+c:\users\burak\documents\visual studio 2017\Projects\FaceIdentify\FaceIdentify\obj\Debug\FaceIdentify.Form1.resources
+c:\users\burak\documents\visual studio 2017\Projects\FaceIdentify\FaceIdentify\obj\Debug\FaceIdentify.Properties.Resources.resources
+c:\users\burak\documents\visual studio 2017\Projects\FaceIdentify\FaceIdentify\obj\Debug\FaceIdentify.csproj.GenerateResource.Cache
+c:\users\burak\documents\visual studio 2017\Projects\FaceIdentify\FaceIdentify\obj\Debug\FaceIdentify.exe
+c:\users\burak\documents\visual studio 2017\Projects\FaceIdentify\FaceIdentify\obj\Debug\FaceIdentify.pdb
+c:\users\burak\documents\visual studio 2017\Projects\FaceIdentify\FaceIdentify\obj\Debug\FaceIdentify.Live.resources
+C:\Users\BURAK\documents\visual studio 2017\Projects\FaceIdentify\FaceIdentify\obj\Debug\FaceIdentify.OpenDialog.resources

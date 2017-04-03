@@ -1,0 +1,4 @@
+c:\users\burak\documents\visual studio 2017\Projects\FaceIdentify\MlgFaceAPI\bin\Debug\MlgFaceAPI.dll
+c:\users\burak\documents\visual studio 2017\Projects\FaceIdentify\MlgFaceAPI\bin\Debug\MlgFaceAPI.pdb
+c:\users\burak\documents\visual studio 2017\Projects\FaceIdentify\MlgFaceAPI\obj\Debug\MlgFaceAPI.dll
+c:\users\burak\documents\visual studio 2017\Projects\FaceIdentify\MlgFaceAPI\obj\Debug\MlgFaceAPI.pdb
