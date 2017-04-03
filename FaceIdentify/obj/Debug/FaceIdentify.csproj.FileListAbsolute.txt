@@ -8,3 +8,15 @@ c:\users\burak\documents\visual studio 2017\Projects\FaceIdentify\FaceIdentify\o
 c:\users\burak\documents\visual studio 2017\Projects\FaceIdentify\FaceIdentify\obj\Debug\FaceIdentify.pdb
 c:\users\burak\documents\visual studio 2017\Projects\FaceIdentify\FaceIdentify\obj\Debug\FaceIdentify.Live.resources
 C:\Users\BURAK\documents\visual studio 2017\Projects\FaceIdentify\FaceIdentify\obj\Debug\FaceIdentify.OpenDialog.resources
+C:\Projects\FaceIdentificationApp\trunk\FaceIdentify\bin\Debug\FaceIdentify.exe
+C:\Projects\FaceIdentificationApp\trunk\FaceIdentify\bin\Debug\FaceIdentify.pdb
+C:\Projects\FaceIdentificationApp\trunk\FaceIdentify\obj\Debug\FaceIdentify.csprojResolveAssemblyReference.cache
+C:\Projects\FaceIdentificationApp\trunk\FaceIdentify\obj\Debug\FaceIdentify.Form1.resources
+C:\Projects\FaceIdentificationApp\trunk\FaceIdentify\obj\Debug\FaceIdentify.Live.resources
+C:\Projects\FaceIdentificationApp\trunk\FaceIdentify\obj\Debug\FaceIdentify.OpenDialog.resources
+C:\Projects\FaceIdentificationApp\trunk\FaceIdentify\obj\Debug\FaceIdentify.Properties.Resources.resources
+C:\Projects\FaceIdentificationApp\trunk\FaceIdentify\obj\Debug\FaceIdentify.csproj.GenerateResource.Cache
+C:\Projects\FaceIdentificationApp\trunk\FaceIdentify\obj\Debug\FaceIdentify.exe
+C:\Projects\FaceIdentificationApp\trunk\FaceIdentify\obj\Debug\FaceIdentify.pdb
+C:\Projects\FaceIdentificationApp\trunk\FaceIdentify\bin\Debug\FaceIdentify.exe.config
+C:\Projects\FaceIdentificationApp\trunk\FaceIdentify\bin\Debug\System.Data.SqlServerCe.dll

@@ -5,6 +5,8 @@ using System.Data;
 using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
+using System.Data.SqlServerCe;
+using System.IO;
 
 namespace FaceIdentify
 {
@@ -90,5 +92,12 @@ namespace FaceIdentify
             Live liveBtn = new Live();
             liveBtn.Show();
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+       
     }
 }
