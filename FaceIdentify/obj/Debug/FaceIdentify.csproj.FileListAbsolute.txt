@@ -20,3 +20,17 @@ C:\Projects\FaceIdentificationApp\trunk\FaceIdentify\obj\Debug\FaceIdentify.exe
 C:\Projects\FaceIdentificationApp\trunk\FaceIdentify\obj\Debug\FaceIdentify.pdb
 C:\Projects\FaceIdentificationApp\trunk\FaceIdentify\bin\Debug\FaceIdentify.exe.config
 C:\Projects\FaceIdentificationApp\trunk\FaceIdentify\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\GURKAN\Desktop\Projects\FaceIdentificationApp-master\FaceIdentify\bin\Debug\FaceIdentify.exe.config
+C:\Users\GURKAN\Desktop\Projects\FaceIdentificationApp-master\FaceIdentify\bin\Debug\FaceIdentify.exe
+C:\Users\GURKAN\Desktop\Projects\FaceIdentificationApp-master\FaceIdentify\bin\Debug\FaceIdentify.pdb
+C:\Users\GURKAN\Desktop\Projects\FaceIdentificationApp-master\FaceIdentify\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\GURKAN\Desktop\Projects\FaceIdentificationApp-master\FaceIdentify\obj\Debug\FaceIdentify.Form1.resources
+C:\Users\GURKAN\Desktop\Projects\FaceIdentificationApp-master\FaceIdentify\obj\Debug\FaceIdentify.Live.resources
+C:\Users\GURKAN\Desktop\Projects\FaceIdentificationApp-master\FaceIdentify\obj\Debug\FaceIdentify.OpenDialog.resources
+C:\Users\GURKAN\Desktop\Projects\FaceIdentificationApp-master\FaceIdentify\obj\Debug\FaceIdentify.Properties.Resources.resources
+C:\Users\GURKAN\Desktop\Projects\FaceIdentificationApp-master\FaceIdentify\obj\Debug\FaceIdentify.csproj.GenerateResource.Cache
+C:\Users\GURKAN\Desktop\Projects\FaceIdentificationApp-master\FaceIdentify\obj\Debug\FaceIdentify.exe
+C:\Users\GURKAN\Desktop\Projects\FaceIdentificationApp-master\FaceIdentify\obj\Debug\FaceIdentify.pdb
+C:\Users\GURKAN\Desktop\Projects\FaceIdentificationApp-master\FaceIdentify\bin\Debug\FaceSDK.NET.dll
+C:\Users\GURKAN\Desktop\Projects\FaceIdentificationApp-master\FaceIdentify\obj\Debug\FaceIdentify.Subjects.resources
+C:\Users\GURKAN\Desktop\Projects\FaceIdentificationApp-master\FaceIdentify\obj\Debug\FaceIdentify.csprojResolveAssemblyReference.cache

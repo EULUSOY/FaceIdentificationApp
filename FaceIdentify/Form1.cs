@@ -56,6 +56,9 @@ namespace FaceIdentify
                 this.MouseMove += new MouseEventHandler(AppFormBase_MouseMove);
                 this.MouseUp += new MouseEventHandler(AppFormBase_MouseUp);
             }
+
+            DBConnection db = new DBConnection();
+            db.CreateDB("DataSource=\"Subjects.sdf\"; Password=\"1234\"");
         }
 
         private void AppFormBase_MouseDown(object sender, MouseEventArgs e)
@@ -98,6 +101,16 @@ namespace FaceIdentify
 
         }
 
-       
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Subjects SubjectBtn = new Subjects();
+            SubjectBtn.Show();
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
