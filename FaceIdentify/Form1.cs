@@ -58,7 +58,7 @@ namespace FaceIdentify
             }
 
             DBConnection db = new DBConnection();
-            db.CreateDB("DataSource=\"Subjects.sdf\"; Password=\"1234\"");
+            db.CreateDB();
         }
 
         private void AppFormBase_MouseDown(object sender, MouseEventArgs e)
@@ -110,6 +110,13 @@ namespace FaceIdentify
 
         private void label2_Click(object sender, EventArgs e)
         {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Settings settingsBtn = new Settings();
+            settingsBtn.Show();
 
         }
     }

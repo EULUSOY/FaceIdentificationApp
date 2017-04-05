@@ -34,3 +34,6 @@ C:\Users\GURKAN\Desktop\Projects\FaceIdentificationApp-master\FaceIdentify\obj\D
 C:\Users\GURKAN\Desktop\Projects\FaceIdentificationApp-master\FaceIdentify\bin\Debug\FaceSDK.NET.dll
 C:\Users\GURKAN\Desktop\Projects\FaceIdentificationApp-master\FaceIdentify\obj\Debug\FaceIdentify.Subjects.resources
 C:\Users\GURKAN\Desktop\Projects\FaceIdentificationApp-master\FaceIdentify\obj\Debug\FaceIdentify.csprojResolveAssemblyReference.cache
+C:\Projects\FaceIdentificationApp\trunk\FaceIdentify\bin\Debug\FaceSDK.NET.dll
+C:\Projects\FaceIdentificationApp\trunk\FaceIdentify\obj\Debug\FaceIdentify.Subjects.resources
+C:\Projects\FaceIdentificationApp\trunk\FaceIdentify\obj\Debug\FaceIdentify.Settings.resources

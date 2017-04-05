@@ -99,6 +99,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Settings.resx">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Subjects.resx">
       <DependentUpon>Subjects.cs</DependentUpon>
     </EmbeddedResource>
@@ -141,6 +144,10 @@
     <None Include="Resources\Add File-26.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\monogram.png" />
+    <None Include="Resources\minimize.png" />
+    <None Include="Resources\close.png" />
+    <None Include="Resources\maximize.png" />
     <Content Include="Resources\plus.png" />
     <None Include="Resources\plus1.png" />
   </ItemGroup>

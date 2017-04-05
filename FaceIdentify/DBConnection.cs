@@ -15,9 +15,9 @@ namespace FaceIdentify
        
         private SqlCeCommand cmd;
         private SqlCeConnection conn;
-        string stringCon = "DataSource=\"Subjects.sdf\"; Password=\"1234\"";
+        string stringCon = "DataSource=\"FaceDB.sdf\"; Password=\"1234\"";
 
-        public void CreateDB(string conString)
+        public void CreateDB()
         {
             if (FSDK.FSDKE_OK != FSDK.ActivateLibrary("VBsVmYmHr/5JxUlk3q0KHjILz7R3Hb5OEhCQ7KdCg/tPbQqJfAaz8ok/9+iTgDp/KjGjkBi23HeCaUq8KKtKeXXN3xbe+bKfQ8q/3mfG6sad3AGUYDj6E+Qi2pzCWFgb4vqWDB3pLzUw+hnOZ7///CBV63IaB1kh7XF6VCaGtNw="))
             {
@@ -27,17 +27,18 @@ namespace FaceIdentify
             if (FSDK.InitializeLibrary() != FSDK.FSDKE_OK)
                 MessageBox.Show("Error initializing FaceSDK!", "Error");
 
-            SqlCeEngine en = new SqlCeEngine(conString);
+            SqlCeEngine en = new SqlCeEngine(stringCon);
 
-            if (!File.Exists("Subjects.sdf"))
+            if (!File.Exists("FaceDB.sdf"))
             {
                 en.CreateDatabase();
-                CreateTable(conString);
+                CreateTable();
+                CreateSettingsTable();
             }
 
         }
 
-        public void CreateTable(string conString)
+        public void CreateTable()
         {
 
             using (conn = new SqlCeConnection(stringCon))
@@ -65,13 +66,39 @@ namespace FaceIdentify
             }
         }
 
-        
-        public void LoadDB(string conString)
+
+
+
+
+
+
+
+        public void CreateSettingsTable()
+        {
+
+            using (conn = new SqlCeConnection(stringCon))
+            {
+                conn.Open();
+
+                using (cmd = new SqlCeCommand(@"create table Settings(
+                     ThresholdValue int not null
+                    )", conn))
+                {
+                    cmd.ExecuteNonQuery();
+                }
+            }
+        }
+
+
+
+
+
+        public void LoadDB()
 {
     
           
 
-    using (conn = new SqlCeConnection(conString))
+    using (conn = new SqlCeConnection(stringCon))
     {
         conn.Open();
         using (cmd = new SqlCeCommand(@"SELECT * FROM FaceList",conn))

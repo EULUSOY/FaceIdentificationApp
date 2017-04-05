@@ -188,7 +188,7 @@ namespace FaceIdentify
         private void Subjects_Load(object sender, EventArgs e)
         {
             DBConnection db = new DBConnection();
-            db.LoadDB(stringCon);
+            db.LoadDB();
             TFaceRecord tr = new TFaceRecord();
                 tr = db.dbList[0];
                 MessageBox.Show(tr.Template.ToString());
